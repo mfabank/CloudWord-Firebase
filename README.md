@@ -1,5 +1,1 @@
-![1](https://user-images.githubusercontent.com/53713274/123529702-a9de8500-d6fb-11eb-83e3-cac618410d07.jpeg)
-![2](https://user-images.githubusercontent.com/53713274/123529703-aa771b80-d6fb-11eb-82ae-8810632bef93.jpeg)
-![3](https://user-images.githubusercontent.com/53713274/123529704-ab0fb200-d6fb-11eb-8926-08f279477b59.jpeg)
-![4](https://user-images.githubusercontent.com/53713274/123529706-ab0fb200-d6fb-11eb-80c5-06d0361ef3ef.jpeg)
-![5](https://user-images.githubusercontent.com/53713274/123529707-aba84880-d6fb-11eb-9915-26825e9c834a.jpeg)
+![Başlıksız-1](https://user-images.githubusercontent.com/53713274/123529783-8cf68180-d6fc-11eb-8de5-fa2e06a2a9ad.jpg)
