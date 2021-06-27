@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871342682688",
+    "project_id": "cloudword-5e59a",
+    "storage_bucket": "cloudword-5e59a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871342682688:android:522c5c509dc112105665a5",
+        "android_client_info": {
+          "package_name": "com.example.cloudword"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871342682688-5h57smc3t2f8b12gvselcfd2bn9h8ouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHyJf0j5VvHf4SwoZ8pME7H3SCKsK-gJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871342682688-5h57smc3t2f8b12gvselcfd2bn9h8ouf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
